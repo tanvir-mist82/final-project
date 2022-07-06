@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+}
+
+.half {
+    padding-left: 5%;
+}
+
+.half img {
+    width: 80%;
+    padding-left: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(238, 90, 11);
+    padding: 5px 30px;
+    border-radius: 5px;
+    text-decoration-color: black;
+    background-image: linear-gradient(orange, tomato);
+    color: antiquewhite;
+    font-weight: 800;
+}
+
+.top-banner {
+    background-image: url(bg/th\ \(1\).jpg);
+    background-repeat: no-repeat
+}
